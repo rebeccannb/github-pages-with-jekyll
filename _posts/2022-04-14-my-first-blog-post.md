@@ -1,4 +1,6 @@
-# My First Blog
+title: "My First Blog
+date: 2022-04-14
+
 ### Learning github
 Some blog text could go here.
 ---
